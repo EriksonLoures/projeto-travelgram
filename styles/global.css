@@ -25,27 +25,3 @@ body {
   color: var(--text-color-secondary);
   background-color: var(--background-color);
 }
-
-/* Amante de viagens, cultura e gastronomia. 🌍✈️ Aqui compartilho as histórias registradas em cada clique, explorando cantinhos fascinantes do nosso planeta a partir da movimentada cidade de São Paulo. 🏙️📸
-
-width: 384px;
-height: 120px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 170%;
-/* or 24px */
-/*display: flex;
-align-items: center;
-
-color: #6C6C6C;
-
-
-/* Inside auto layout *
-flex: none;
-order: 1;
-align-self: stretch;
-flex-grow: 0; 
-*/
