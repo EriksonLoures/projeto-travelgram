@@ -12,9 +12,40 @@
   --shape-transparency: #ffffff91;
   --text-color-primary: #313131;
   --text-color-secondary: #6C6C6C;
+
+  --font-family: "Poppins", sans-sarif;
+  --text-lg: bold 32px/125% var(--font-family);
+  --text: 16px/1.5 var(--font-family);
+  --text-md: 14px/175% var(--font-family);
+  --text-sm: 12px/175% var(--font-family);
 }
 
 body {
+  font: var(--text);
   color: var(--text-color-secondary);
   background-color: var(--background-color);
 }
+
+/* Amante de viagens, cultura e gastronomia. 🌍✈️ Aqui compartilho as histórias registradas em cada clique, explorando cantinhos fascinantes do nosso planeta a partir da movimentada cidade de São Paulo. 🏙️📸
+
+width: 384px;
+height: 120px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 170%;
+/* or 24px */
+/*display: flex;
+align-items: center;
+
+color: #6C6C6C;
+
+
+/* Inside auto layout *
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0; 
+*/
